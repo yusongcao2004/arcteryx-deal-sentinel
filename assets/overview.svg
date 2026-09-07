@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
-  <title id="title">始祖鸟跨渠道比价与优惠发现</title>
-  <desc id="desc">产品方向展示：把分散的报价，变成清楚的购买机会。统一欧元报价，明确商品规格，保留价格证据。</desc>
+  <title id="title">秒级获取商品信息，正在为自动下单做好准备</title>
+  <desc id="desc">德国官方 Outlet 的有限实测中，后续八轮商品列表检查平均请求耗时约1.22秒。自动下单处于产品规则与流程准备阶段，尚未开放。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112e29"/><stop offset="1" stop-color="#061b19"/></linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#50736b"/><stop offset="1" stop-color="#d6fba7"/></linearGradient>
@@ -15,9 +15,9 @@
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
     <rect x="58" y="49" width="8" height="22" rx="4" fill="#d6fba7"/>
     <text x="80" y="67" fill="#d6fba7" font-size="20" font-weight="650" letter-spacing="2">ARC'TERYX DEAL SENTINEL</text>
-    <text x="58" y="165" fill="#f5f8f1" font-size="45" font-weight="650">始祖鸟跨渠道比价</text>
-    <text x="58" y="225" fill="#f5f8f1" font-size="45" font-weight="650">与优惠发现</text>
-    <text x="60" y="278" fill="#b9cec4" font-size="23">把分散的报价，变成清楚的购买机会。</text>
+    <text x="58" y="165" fill="#f5f8f1" font-size="45" font-weight="650">秒级获取商品信息</text>
+    <text x="58" y="225" fill="#f5f8f1" font-size="45" font-weight="650">为自动下单做好准备</text>
+    <text x="60" y="278" fill="#b9cec4" font-size="23">始祖鸟跨渠道比价 · 统一欧元 · 优惠监控</text>
     <g fill="#deeadf" font-size="19">
       <text x="60" y="346">同规格比较</text><text x="205" y="346" fill="#5a7e6d">/</text>
       <text x="235" y="346">统一 EUR</text><text x="373" y="346" fill="#5a7e6d">/</text>
@@ -27,14 +27,14 @@
     <text x="76" y="414" fill="#d6fba7" font-size="15">产品方向展示 · 持续开发中</text>
     <g transform="translate(900 84)">
       <rect width="452" height="302" rx="20" fill="#f0f4e9"/>
-      <text x="28" y="43" fill="#496053" font-size="16" letter-spacing="1">从多个渠道，到一个购买决定</text>
-      <text x="28" y="120" fill="#142e24" font-size="60" font-weight="700">EUR</text>
-      <text x="181" y="117" fill="#4e6457" font-size="20">跨渠道报价</text>
+      <text x="28" y="43" fill="#496053" font-size="16">德国官方 Outlet · 8 轮列表检查均值</text>
+      <text x="28" y="120" fill="#142e24" font-size="60" font-weight="700">1.22s</text>
+      <text x="254" y="117" fill="#4e6457" font-size="20">有限样本实测</text>
       <path d="M28 146H424" stroke="#cbd8c8"/>
       <g fill="#253f30" font-size="18">
-        <circle cx="36" cy="179" r="5" fill="#76a54e"/><text x="55" y="186">明确颜色与尺码</text>
-        <circle cx="36" cy="221" r="5" fill="#76a54e"/><text x="55" y="228">对照德国官网参考价</text>
-        <circle cx="36" cy="263" r="5" fill="#76a54e"/><text x="55" y="270">查看来源与核实时间</text>
+        <circle cx="36" cy="179" r="5" fill="#76a54e"/><text x="55" y="186">101 款商品 · 1,183 个规格</text>
+        <circle cx="36" cy="221" r="5" fill="#76a54e"/><text x="55" y="228">自动下单：准备中</text>
+        <circle cx="36" cy="263" r="5" fill="#76a54e"/><text x="55" y="270">先设规格、预算与购买条件</text>
       </g>
     </g>
   </g>
